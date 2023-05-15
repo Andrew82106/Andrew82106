@@ -7,3 +7,11 @@
 
 
 
+<ul style="list-style-type: none; display: flex; flex-wrap: wrap;">
+  <li style="flex-basis: 50%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew82106&show_icons=true&locale=en" alt="andrew82106" style="margin: 50px;">
+  </li>
+  <li style="flex-basis: 50%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew82106&show_icons=true&locale=en&layout=compact" alt="andrew82106">
+  </li>
+</ul>
